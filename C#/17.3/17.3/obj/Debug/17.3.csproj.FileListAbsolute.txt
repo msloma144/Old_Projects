@@ -1,0 +1,9 @@
+f:\users\michael\documents\visual studio 2012\Projects\17.3\17.3\bin\Debug\17.3.exe.config
+f:\users\michael\documents\visual studio 2012\Projects\17.3\17.3\bin\Debug\17.3.exe
+f:\users\michael\documents\visual studio 2012\Projects\17.3\17.3\bin\Debug\17.3.pdb
+f:\users\michael\documents\visual studio 2012\Projects\17.3\17.3\obj\Debug\17.3.csprojResolveAssemblyReference.cache
+f:\users\michael\documents\visual studio 2012\Projects\17.3\17.3\obj\Debug\_17._3.Form1.resources
+f:\users\michael\documents\visual studio 2012\Projects\17.3\17.3\obj\Debug\_17._3.Properties.Resources.resources
+f:\users\michael\documents\visual studio 2012\Projects\17.3\17.3\obj\Debug\17.3.csproj.GenerateResource.Cache
+f:\users\michael\documents\visual studio 2012\Projects\17.3\17.3\obj\Debug\17.3.exe
+f:\users\michael\documents\visual studio 2012\Projects\17.3\17.3\obj\Debug\17.3.pdb

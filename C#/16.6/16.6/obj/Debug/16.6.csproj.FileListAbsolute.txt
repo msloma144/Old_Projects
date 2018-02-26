@@ -1,0 +1,12 @@
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\16.6\16.6\bin\Debug\16.6.exe.config
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\16.6\16.6\bin\Debug\16.6.exe
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\16.6\16.6\bin\Debug\16.6.pdb
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\16.6\16.6\obj\Debug\16.6.csprojResolveAssemblyReference.cache
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\16.6\16.6\obj\Debug\_16._6.Form1.resources
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\16.6\16.6\obj\Debug\_16._6.Properties.Resources.resources
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\16.6\16.6\obj\Debug\16.6.csproj.GenerateResource.Cache
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\16.6\16.6\obj\Debug\16.6.exe
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\16.6\16.6\obj\Debug\16.6.pdb
+C:\Users\Michael\Google Drive\Davenport Stuffs\CSCI 231\week7_Sloma_Michael\16.6\16.6\bin\Debug\16.6.exe.config
+C:\Users\Michael\Google Drive\Davenport Stuffs\CSCI 231\week7_Sloma_Michael\16.6\16.6\obj\Debug\16.6.exe
+C:\Users\Michael\Google Drive\Davenport Stuffs\CSCI 231\week7_Sloma_Michael\16.6\16.6\obj\Debug\16.6.pdb
