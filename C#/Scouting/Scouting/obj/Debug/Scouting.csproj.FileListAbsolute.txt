@@ -1,0 +1,10 @@
+c:\users\chs-mediacenter-win1\documents\visual studio 2012\Projects\Scouting\Scouting\bin\Debug\Scouting.exe.config
+C:\Users\CHS-MediaCenter-WIN1\Documents\Visual Studio 2012\Projects\Scouting\Scouting\bin\Debug\Scouting.exe
+C:\Users\CHS-MediaCenter-WIN1\Documents\Visual Studio 2012\Projects\Scouting\Scouting\bin\Debug\Scouting.pdb
+C:\Users\CHS-MediaCenter-WIN1\Documents\Visual Studio 2012\Projects\Scouting\Scouting\obj\Debug\Scouting.csprojResolveAssemblyReference.cache
+C:\Users\CHS-MediaCenter-WIN1\Documents\Visual Studio 2012\Projects\Scouting\Scouting\obj\Debug\Scouting.Form1.resources
+C:\Users\CHS-MediaCenter-WIN1\Documents\Visual Studio 2012\Projects\Scouting\Scouting\obj\Debug\Scouting.Properties.Resources.resources
+C:\Users\CHS-MediaCenter-WIN1\Documents\Visual Studio 2012\Projects\Scouting\Scouting\obj\Debug\Scouting.csproj.GenerateResource.Cache
+C:\Users\CHS-MediaCenter-WIN1\Documents\Visual Studio 2012\Projects\Scouting\Scouting\obj\Debug\Scouting.exe
+C:\Users\CHS-MediaCenter-WIN1\Documents\Visual Studio 2012\Projects\Scouting\Scouting\obj\Debug\Scouting.pdb
+C:\Users\CHS-MediaCenter-WIN1\Documents\Visual Studio 2012\Projects\Scouting\Scouting\obj\Debug\Scouting.Form2.resources
